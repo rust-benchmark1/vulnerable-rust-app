@@ -36,16 +36,19 @@ Not expected to be detected, because the sink is not present in the code. The co
 - **Sink:** Not present
 
 **Example 7** - CWE-78:OS Command Injection (Supported)
+
 Expected to be detected
 - **Source:** 188
 - **Sink:** 192
 
 **Example 8** - CWE-78:OS Command Injection (Supported)
+
 Expected to be detected
 - **Source:** 188
 - **Sink:** 202
 
 **Example 9** - CWE-328:Use of Weak Hash (Supported)
+
 Expected to be detected
 - **Source/Sink:** 220
 
@@ -54,14 +57,18 @@ Expected to be detected
 - **Sink:** 222
 
 **Example 11** - CWE-601:Open redirect (Supported)
+
 Expected to be detected
 - **Source/Sink:** 232
 
 **Example 12** - CWE-918:Server-Side Request Forgery - SSRF (Supported)
+
 Expected to be detected
 - **Source/Sink:** 241
 
 **Example 13** - CWE-1004:Sensitive Cookie Without 'HttpOnly' Flag (Supported)
+
+Expected to be detected
 - **Source:** 255
 - **Sink:** 259
 
